@@ -6,7 +6,25 @@
     <description>Recent content in Posts on GopherCon2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 21:40:08 +0000</lastBuildDate><atom:link href="/go-actions/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 23:01:08 +0000</lastBuildDate><atom:link href="/go-actions/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3rd</title>
+      <link>/go-actions/posts/third-post/</link>
+      <pubDate>Mon, 09 Nov 2020 23:01:08 +0000</pubDate>
+      
+      <guid>/go-actions/posts/third-post/</guid>
+      <description>pull to main</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/go-actions/posts/my-second/</link>
+      <pubDate>Mon, 09 Nov 2020 23:01:08 +0000</pubDate>
+      
+      <guid>/go-actions/posts/my-second/</guid>
+      <description>Second post</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>/go-actions/posts/my-first-post/</link>
