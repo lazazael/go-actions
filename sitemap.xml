@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/go-actions/posts/my-second/</loc>
+  </url>
+  
+  <url>
     <loc>/go-actions/categories/</loc>
   </url>
   
   <url>
     <loc>/go-actions/</loc>
+  </url>
+  
+  <url>
+    <loc>/go-actions/posts/</loc>
   </url>
   
   <url>
