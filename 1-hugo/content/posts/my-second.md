@@ -6,4 +6,6 @@ draft: false
 
 
 Second post
-update 1
+
+update 2
+
